@@ -1,5 +1,5 @@
 ﻿# Goomer-database
-1. Criar database goomer e importar o banco.
+1. Criar database goomer e importar o banco (MySQL).
 
 # Sobre
   1. A tabela restaurante armazena os dados dos restaurantes, note que existe uma flag para verificar se o mesmo esta aberto ou não.
